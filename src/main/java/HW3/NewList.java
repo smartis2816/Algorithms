@@ -1,7 +1,5 @@
 package HW3;
 
-import Seminar3.myDList;
-
 public class NewList {
     Node head;
     Node tail;
