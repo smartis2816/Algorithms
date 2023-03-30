@@ -11,6 +11,7 @@ public class NewList {
 
     }
 
+    // Это метод разворота списка, который требовался по ДЗ
     public void reverseList() {
         if (head == null || head.next == null)
             return;
