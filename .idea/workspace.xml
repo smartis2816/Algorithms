@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14bd2fe0-72bd-444a-a8f5-7b83bdb847b0" name="Changes" comment="HW1 is done">
-      <change afterPath="$PROJECT_DIR$/src/main/java/HW3/HW3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HW3/NewList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar3/myDList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar3/myList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="14bd2fe0-72bd-444a-a8f5-7b83bdb847b0" name="Changes" comment="HW is done">
+      <change afterPath="$PROJECT_DIR$/src/main/java/HW4/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HW4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar4/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar4/HashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar4/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,12 +41,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Gregory/Desktop/GB/9) Алгоритмы и структуры данных/Seminars/Algorithms"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -64,7 +64,28 @@
       <option name="project" value="LOCAL" />
       <updated>1679940612731</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="HW is done">
+      <created>1680207809473</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680207809473</updated>
+    </task>
+    <task id="LOCAL-00003" summary="HW is done">
+      <created>1680207866555</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680207866555</updated>
+    </task>
+    <task id="LOCAL-00004" summary="HW is done">
+      <created>1680207931683</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680207931683</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -80,6 +101,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HW1 is done" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW1 is done" />
+    <MESSAGE value="HW is done" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW is done" />
   </component>
 </project>
